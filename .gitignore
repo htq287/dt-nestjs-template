@@ -1,0 +1,10 @@
+.idea
+.env*
+!.env.sample
+*.DS_Store
+node_modules
+.apikey.json
+.cache
+logs
+caches
+.tmp
